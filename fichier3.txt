@@ -1,0 +1,5 @@
+Ceci est le fichier 3
+
+Je viens de faire une grosse bêtise ! 
+Malheureusement, j'ai exclu ce fichier de l'index ! C'est mort :) !
+
